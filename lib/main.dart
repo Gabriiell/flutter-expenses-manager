@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                       decoration: InputDecoration(labelText: 'Title'),
                     ),
                     TextField(
-                      decoration: InputDecoration(labelText: '\$'),
+                      decoration: InputDecoration(labelText: '\$\$'),
                     ),
                     FlatButton(
                       onPressed: () {},
