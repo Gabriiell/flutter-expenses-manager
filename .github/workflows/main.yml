@@ -1,7 +1,5 @@
 on:
-  push:
-    tags:
-    - '*' # for release
+  push
 name: Build Web
 jobs:
   build:
