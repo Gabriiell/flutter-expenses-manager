@@ -15,3 +15,8 @@ jobs:
     - run: flutter pub get
     - run: flutter config --enable-web
     - run: flutter build web
+    - name: Create a Web Release
+      uses: ncipollo/release-action@v1
+      with:
+        artifacts: "build/web"
+        token: ${{ secrets.TOKEN }}
