@@ -24105,7 +24105,7 @@ b=r}}C.b.m(l.b,b,a)}}
 F.wl.prototype={
 J:function(a){return new S.op(new F.vz(H.a([new V.q4("New Shoes",66.99,new P.bV(Date.now(),!1)),new V.q4("Groceries",16.53,new P.bV(Date.now(),!1))],u.yX),null),"Expenses Manager",null)}}
 F.vz.prototype={
-J:function(a){var t,s,r,q=null,p=L.fC("Expenses Manager",q,q,q,q,q),o=V.Tb(M.f6(C.au,L.fC("Future chart",q,q,q,q,q),q,q,q,100,q,q,100),5),n=u.t,m=V.Tb(M.f6(q,T.Fb(H.a([Z.Xf(L.Tv(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,C.id,q,q,q,!0,q,q,q,q,q,q,q,q,!1,q,q,"Title",q,q,q,q,q,q,q,q,q,q,q)),Z.Xf(L.Tv(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,C.id,q,q,q,!0,q,q,q,q,q,q,q,q,!1,q,q,"Amount",q,q,q,q,q,q,q,q,q,q,q)),N.a0S(L.fC("Add Transaction",q,q,q,q,q),new F.If(),C.lY)],n),C.kK,C.ji),q,q,q,q,q,new V.ar(10,10,10,10),q),5),l=H.a([],n)
+J:function(a){var t,s,r,q=null,p=L.fC("Expenses Manager",q,q,q,q,q),o=V.Tb(M.f6(C.au,L.fC("Future chart",q,q,q,q,q),q,q,q,100,q,q,100),5),n=u.t,m=V.Tb(M.f6(q,T.Fb(H.a([Z.Xf(L.Tv(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,C.id,q,q,q,!0,q,q,q,q,q,q,q,q,!1,q,q,"Title",q,q,q,q,q,q,q,q,q,q,q)),Z.Xf(L.Tv(q,q,q,q,q,q,q,!0,q,q,q,q,q,q,q,C.id,q,q,q,!0,q,q,q,q,q,q,q,q,!1,q,q,"$$",q,q,q,q,q,q,q,q,q,q,q)),N.a0S(L.fC("Add Transaction",q,q,q,q,q),new F.If(),C.lY)],n),C.kK,C.ji),q,q,q,q,q,new V.ar(10,10,10,10),q),5),l=H.a([],n)
 for(t=this.c,s=H.ac(t).k("ao<1,q3*>"),s=P.T(new H.ao(t,new F.Ig(),s),!0,s.k("aT.E")),t=s.length,r=0;r<s.length;s.length===t||(0,H.z)(s),++r)l.push(s[r])
 return new M.pn(new E.mP(p,new P.ad(1/0,56),q),T.Fb(H.a([o,m,T.Fb(l,C.i4,C.ji)],n),C.i4,C.ji),q)}}
 F.If.prototype={
