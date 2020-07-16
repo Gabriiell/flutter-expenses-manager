@@ -1,7 +1,7 @@
 on:
   push:
     tags:
-    - '*'
+    - '*' # for release
 name: Build Web
 jobs:
   build:
